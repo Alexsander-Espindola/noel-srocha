@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs)
+![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=true)
 
 
 <!--
