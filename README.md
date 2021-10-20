@@ -4,7 +4,7 @@
 
 #### Things I like:
 
-- Astronomy ![image](https://user-images.githubusercontent.com/56612428/138084234-1598d867-f52d-4c51-b5a3-07793b8f3a67.png);
+- Astronomy <img src="https://user-images.githubusercontent.com/56612428/138084509-d267806a-e1b3-408b-b030-65a80db30985.png" />;
 - Technology in general;
 - Games;
 - Reading;
