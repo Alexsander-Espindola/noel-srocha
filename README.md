@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=true)
+![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=trueshow_icons=truetheme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noel-srocha&layout=compact)](https://github.com/noel-srocha/github-readme-stats)
 
 
 <!--
