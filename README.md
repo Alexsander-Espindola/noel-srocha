@@ -1,5 +1,24 @@
-### Hi there 👋
+### Hello there fellow GitHubers! Welcome to my profile! 👋
 
+- I'm Manoel, pleased to make your acquaintance! I'm a 28-year-old Brazilian guy who dreams high and works to achieve my objectives!
+
+#### Things I like:
+
+- Astronomy ![image](https://user-images.githubusercontent.com/56612428/138084234-1598d867-f52d-4c51-b5a3-07793b8f3a67.png);
+- Technology in general;
+- Games;
+- Reading;
+- Martial Arts;
+- Creative Writing;
+
+#### 
+
+- 🔭 I’m currently working on my personal portfolio;
+- 🌱 I’m currently learning Vue.js;
+- 👯 I’m looking to collaborate on small frontend projects;
+- 💬 Ask me about anything! Really I'm quite an open book haha
+- 📫 How to reach me: ...
+- ⚡ Fun fact: 
 
 ![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noel-srocha&hide=contribs&count_private=trueshow_icons=truetheme=algolia)
 
@@ -13,12 +32,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
